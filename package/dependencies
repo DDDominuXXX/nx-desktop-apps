@@ -11,16 +11,16 @@ ark
 kcalc
 kde-spectacle
 kinfocenter
+latte-dock
 sddm
 systemsettings
-latte-dock
 
 #   = Other KDE or Qt Software =
 
 kdeconnect
 kmenuedit
-qps
-qpdfview
 nitroshare
+qpdfview
+qps
 
 #   = Supporting bits =
