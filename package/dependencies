@@ -5,6 +5,21 @@
 
 nx-desktop
 
+#    = CLI Apps =
+
+cmus
+dc
+ftp
+hdparm
+htop
+mc
+ncdu
+nsnake
+tmate
+tree
+w3m
+wget
+
 #    = KDE Applications =
 
 ark
@@ -33,5 +48,9 @@ seabios
 
 #   = Supporting bits =
 
+docker.io
+fakeroot
+flatpak
+gamemode
 linuxbrew-wrapper
 npm
