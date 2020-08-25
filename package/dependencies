@@ -23,4 +23,15 @@ nitroshare
 qpdfview
 qps
 
+#   = VMetal Supporting bits =
+
+nitrux-vfio-enablement
+ipxe-qemu
+libslirp0
+ovmf
+seabios
+
 #   = Supporting bits =
+
+linuxbrew-wrapper
+npm
