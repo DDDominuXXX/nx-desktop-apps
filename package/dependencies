@@ -18,7 +18,22 @@ nsnake
 tmate
 tree
 w3m
+
+#    = CLI Utils =
+
+axel
+curl
+git
+rsync
+unrar
+unzip
 wget
+zip
+
+#    = NX Desktop Apps =
+
+nx-welcome-wizard
+
 
 #    = KDE Applications =
 
@@ -37,6 +52,7 @@ kmenuedit
 nitroshare
 qpdfview
 qps
+qt5-style-kvantum
 
 #   = VMetal Supporting bits =
 
