@@ -24,6 +24,7 @@ w3m
 axel
 curl
 git
+p7zip-full
 rsync
 unrar
 unzip
@@ -34,14 +35,12 @@ zip
 
 nx-welcome-wizard
 
-
 #    = KDE Applications =
 
 ark
 kcalc
 kde-spectacle
 kinfocenter
-latte-dock
 sddm
 systemsettings
 
